@@ -1,4 +1,4 @@
-#This python file contains all the ASCII art related to the project
+# This python file contains all the ASCII art related to the project
 
 rock = '''
     _______
